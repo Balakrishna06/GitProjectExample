@@ -2,7 +2,7 @@ package com.nt;
 
 public class Welcome {
   public String msg() {
-	  String msg="WElcome to java";
+	  String msg="WElCome to java";
     return msg;
   }
 }
